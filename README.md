@@ -38,3 +38,9 @@ L'élève a de fortes chances de réussir son année scolaire.
 
 Attention ! Ce modèle a une précision de 85.27% donc il arrive que les prédictions réalisées soient fausses.
 ```
+
+## Sources des datasets
+
+**dataset 1 :** https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data
+
+**dataset 2 :** https://archive.ics.uci.edu/ml/datasets/student+performance
