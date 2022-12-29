@@ -8,7 +8,8 @@ Cette prédiction sera basé sur un modèle utilisant une régression linéaire 
 
 Le formulaire se présentera de la manière suivante :
 
-```Bienvenue dans notre application de prédiction de réussite scolaire !
+```
+Bienvenue dans notre application de prédiction de réussite scolaire !
 
 Veuillez remplir ce formulaire pour prédire la réussite de cet étudiant :
 
@@ -27,10 +28,13 @@ Fréquence de participation de l'étudiant : 1.Supérieure à la moyenne / 2.Inf
 Nombre d'absences de l'étudiant : 1.Supérieur à la moyenne / 2.Inférieur à la moyenne
 -> 2
 L'étudiant a t'il l'intention de poursuivre ses études: 1.Oui / 2.Non
--> 1```
+-> 1
+```
 
 Il affichera ensuite un message, si selon les informations rentrées, l'utilisateur réussira ou non :
 
-```L'élève a de fortes chances de réussir son année scolaire.
+```
+L'élève a de fortes chances de réussir son année scolaire.
 
-Attention ! Ce modèle a une précision de 85.27% donc il arrive que les prédictions réalisées soient fausses.```
+Attention ! Ce modèle a une précision de 85.27% donc il arrive que les prédictions réalisées soient fausses.
+```
